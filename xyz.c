@@ -1,9 +1,8 @@
-/* If your environment cannot locate system headers, declare printf manually */
-extern int printf(const char *format, ...);
+#include<stdio.h>
 int main(){
-  int a ,b , sum;
-  a = 5; b = 5;
-  sum = a + b;
-  printf("The sum of two numbers is: %d", sum);
-  return 0;
+    int a,b ;
+    a = 5; b = 5;
+    int sum = a + b;
+    printf("The sum of two numbers is : %d", sum);
+    return 0 ;
 }
