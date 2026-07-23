@@ -1,1 +1,4 @@
 This is a text file
+
+this is not a program this is a demo file for learning git and github . ha ha 
+my name is ahad
